@@ -1,2 +1,2 @@
 # Demo 
-Demo Github Repo to understand all necessary git commands.
+Demo GitHub Repo to understand all necessary git commands.
