@@ -1,2 +1,2 @@
-# DSA_Challenge
-DAILY, I'll solve 2 coding questions &amp; I'll upload codes in this repo.
+# Demo 
+Demo Github Repo to understand all necessary git commands.
